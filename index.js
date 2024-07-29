@@ -1,4 +1,4 @@
-export function codetest(code) {
+ function codetest(code) {
   let result = null;
   let isSuccess = false;
 
